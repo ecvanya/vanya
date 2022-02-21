@@ -1,1 +1,1 @@
-# vanya
+https://ecvanya.github.io/vanya/
